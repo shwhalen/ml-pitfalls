@@ -7,7 +7,7 @@ The Jupyter notebooks in this repository accompany the paper "Navigating the Pit
 
 Click the button below to launch the notebooks in your browser via Binder.  This may take a few minutes.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwhalen/ml-pitfalls/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwhalen/ml-pitfalls/main)
 
 
 ## Running locally
